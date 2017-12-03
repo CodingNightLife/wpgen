@@ -40,7 +40,7 @@ This app is designed for Android 4.0.3 and later.
 
 ## Donations
 
-Bitcoin: [`1LDg59hWfPLXGocbuBDRmw2y5VeycDKgnv`](bitcoin:1LDg59hWfPLXGocbuBDRmw2y5VeycDKgnv?label=glsk/wpgen)
+[https://glsk.net/donate/](https://glsk.net/donate/)
 
 ## License
 
