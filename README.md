@@ -5,21 +5,7 @@ This app is designed for Android 4.0.3 and later.
 
 ## Screenshots
 
-[![t1]][1] [![t2]][2] [![t3]][3] [![t4]][4] [![t5]][5] [![t6]][6] [![t7]][7]
-[1]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-06.png
-[t1]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-06-180x300.png
-[2]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-31.png
-[t2]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-31-180x300.png
-[3]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-56.png
-[t3]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-56-180x300.png
-[4]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-16-25.png
-[t4]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-16-25-180x300.png
-[5]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-20-45.png
-[t5]: https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-20-45-180x300.png
-[6]: https://glsk.net/wp-content/uploads/2015/10/Screenshot_2015-10-31-18-01-33.png
-[t6]: https://glsk.net/wp-content/uploads/2015/10/Screenshot_2015-10-31-18-01-33-180x300.png
-[7]: https://glsk.net/wp-content/uploads/2015/12/Screenshot_20151129-225356.png
-[t7]: https://glsk.net/wp-content/uploads/2015/12/Screenshot_20151129-225356-180x300.png
+[![](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-06-180x300.png)](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-06.png) [![](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-31-180x300.png)](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-31.png) [![](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-56-180x300.png)](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-15-56.png) [![](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-16-25-180x300.png)](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-16-25.png) [![](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-20-45-180x300.png)](https://glsk.net/wp-content/uploads/2015/02/Screenshot_2015-02-15-17-20-45.png) [![](https://glsk.net/wp-content/uploads/2015/10/Screenshot_2015-10-31-18-01-33-180x300.png)](https://glsk.net/wp-content/uploads/2015/10/Screenshot_2015-10-31-18-01-33.png) [![](https://glsk.net/wp-content/uploads/2015/12/Screenshot_20151129-225356-180x300.png)](https://glsk.net/wp-content/uploads/2015/12/Screenshot_20151129-225356.png)
 
 ## Download
 
